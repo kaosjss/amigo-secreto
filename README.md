@@ -1,4 +1,4 @@
-# Amigo Secreto - Lógica de Programação com ALURA
+# Amigo Secreto - Lógica de Programação com Alura
 
 ## Descrição
 Este projeto tem como objetivo fortalecer suas habilidades em lógica de programação. A aplicação permite adicionar nomes a uma lista e realizar um sorteio de "Amigo Secreto" entre os participantes.
